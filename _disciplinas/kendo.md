@@ -1,5 +1,5 @@
 ---
-title: "剣道 Kendō"
+title: "剣道  Kendō"
 image: 
   path: /images/torneo_shizuoka_secundaria_2016_07_03.jpg
   thumbnail: /images/torneo_shizuoka_secundaria_2016_07_03-400x225.jpg
