@@ -1,4 +1,6 @@
-- name: Inicio
-  link: /
-- name: Inscripción
-  link: /inscripcion
+- title: Inicio
+  url: /
+- title: Inscripción
+  url: /inscripcion
+- title: Disciplinas
+  url: /disciplinas

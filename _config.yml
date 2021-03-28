@@ -1,1 +1,21 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+locale: es-AR
+title: "Sitio de Rosario Budokan"
+description: "Sede Rosario de la Asociación de Kendo & Iaido Shin Sen Kai"
+
+# Collections
+collections:
+  disciplinas:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # Disciplinas defaults
+  - scope:
+      path: "_disciplinas"
+      type: disciplinas
+
+# Site Author
+author:
+  name: Sebastián R. Vansteenkiste

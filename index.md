@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Rosario Budokan
+layout: home
+excerpt: "Rosario Budokan"
+show_excerpts: true
+paginate: true
+entries_layout: list
 ---
 
 # Rosario Budokan
