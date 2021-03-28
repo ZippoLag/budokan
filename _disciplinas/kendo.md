@@ -15,3 +15,5 @@ Esta sincronización al momento del impacto se conoce como Ki Ken Tai Icchi (気
 Si bien no se utilizan "cinturones" ni ningún otro distintivo visible, la progresión en el tiempo puede verse reflejada en la aprobación de exámenes de grado, separados en Kyuu (級 - "graduaciones iniciales") y Dan (段 - "graduaciones avanzadas"). El "1º Dan" es lo que suele considerarse un "cinturón negro" en otras artes marciales japonesas, tras el cual hay niveles suscesivos a superar, siendo hoy en día el 8º Dan lo máximo alcanzable.
 
 La práctica del Kendō nos invita a crecer en diversas formas simultáneamente (mental, física, espiritual, emocional, *técnica*...), una complementando la otra a medida que transcurren nuestros años de práctica ininterrumpida. Por lo general, al enfrentarnos a una persona mayor (eg, 70 años) que ha comenzado esta actividad en su niñez, la diferencia de nivel es tal que nos resulta imposible asestarles un golpe a menos que nos lo permitan, lo que como mínimo nos hace plantearnos "¡ojalá sea así de hábil a su edad!".
+
+¡Si te interesa probar una clase gratis, anotate en nuestro formulario de (Inscripción)[/inscripcion]!
