@@ -3,6 +3,8 @@ locale: es-AR
 title: "Sitio de Rosario Budokan"
 description: "Sede Rosario de la Asociación de Kendo & Iaido Shin Sen Kai"
 
+logo: "/images/rbk_logo.png"
+
 # Collections
 collections:
   disciplinas:
