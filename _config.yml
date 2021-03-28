@@ -15,6 +15,10 @@ defaults:
   - scope:
       path: "_disciplinas"
       type: disciplinas
+    values:
+      layout: post
+      comments: false
+      share: true
 
 # Site Author
 author:
