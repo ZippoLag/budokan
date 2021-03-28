@@ -1,5 +1,6 @@
 ---
 title: "道場訓  Dōjō Kun"
+layout: post
 ---
 
 El espacio al que usted está aceptando entrar, considérelo separado del mundo cotidiano y regido por sus propias reglas, entrar significa aceptar acatarlas. Dōjō, de dō (道 - “camino”) y jō (場 - “lugar”) es sencillamente un lugar en donde recorremos (o buscamos) nuestro camino quienes practicamos cualquier arte como forma de vida.
