@@ -21,7 +21,3 @@ defaults:
       layout: post
       comments: false
       share: true
-
-# Site Author
-author:
-  name: Sebastián R. Vansteenkiste
