@@ -6,7 +6,7 @@ permalink: /dojokun/
 
 El espacio al que usted está aceptando entrar, considérelo separado del mundo cotidiano y regido por sus propias reglas, entrar significa aceptar acatarlas. Dōjō, de dō (道 - “camino”) y jō (場 - “lugar”) es sencillamente un lugar en donde recorremos (o buscamos) nuestro camino quienes practicamos cualquier arte como forma de vida.
 
-Si bien cada [disciplina]({{ site.baseurl }}{% link /disciplinas.md %}) tiene sus reglas y preceptos a cumplir, las presentes son las normas (訓 - Kun) de la casa, la forma de comportarse que en general deberíamos seguir dentro de la misma.
+Si bien cada [disciplina]({{ site.baseurl }}/disciplinas) tiene sus reglas y preceptos a cumplir, las presentes son las normas (訓 - Kun) de la casa, la forma de comportarse que en general deberíamos seguir dentro de la misma.
 
 Lo que convierte a un "local" o "espacio de práctica" en un "dojo" es sencillamente el ser tratado como tal, y parte de este "trato" se constituye en cómo se comportan las personas dentro del mismo.
 
