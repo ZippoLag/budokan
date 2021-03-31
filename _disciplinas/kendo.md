@@ -16,4 +16,4 @@ Si bien no se utilizan "cinturones" ni ningún otro distintivo visible, la progr
 
 La práctica del Kendō nos invita a crecer en diversas formas simultáneamente (mental, física, espiritual, emocional, *técnica*...), una complementando la otra a medida que transcurren nuestros años de práctica ininterrumpida. Por lo general, al enfrentarnos a una persona mayor (eg, 70 años) que ha comenzado esta actividad en su niñez, la diferencia de nivel es tal que nos resulta imposible asestarles un golpe a menos que nos lo permitan, lo que como mínimo nos hace plantearnos "¡ojalá sea así de hábil a su edad!".
 
-¡Si te interesa probar una clase gratis, anotate en nuestro formulario de [Inscripción]({{ site.baseurl }}{% link /inscripcion.html %})!
+¡Si te interesa probar una clase gratis, anotate en nuestro formulario de [Inscripción](/inscripcion)!

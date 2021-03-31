@@ -4,7 +4,7 @@ layout: post
 permalink: /horarios/
 ---
 
-Los siguientes son los horarios de nuestras disciplinas. Para inscribirte en cualquiera por favor usá nuestro formulario de [inscripción]({{ site.baseurl }}{% link /inscripcion.html %}) o escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar). También podés ver el mismo dentro de nuestro [calendario de prácticas y eventos](/calendario).
+Los siguientes son los horarios de nuestras disciplinas. Para inscribirte en cualquiera por favor usá nuestro formulario de [inscripción](/inscripcion) o escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar). También podés ver el mismo dentro de nuestro [calendario de prácticas y eventos](/calendario).
 
 | Horario       | Lunes         | Martes                    | Miércoles                 | Jueves                    | Viernes                   |
 | :-----------: |:-------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
