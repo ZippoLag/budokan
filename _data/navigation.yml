@@ -2,10 +2,14 @@
   url: /
 - title: Inscripción
   url: /inscripcion
+- title: Horarios
+  url: /horarios
 - title: Disciplinas
   url: /disciplinas
 - title: Kendō
   url: /disciplinas/kendo
+- title: Iaidō
+  url: /disciplinas/iaido
 - title: Normas
   url: /dojokun
   
