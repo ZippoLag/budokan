@@ -8,8 +8,7 @@ Los siguientes son los horarios de nuestras disciplinas. Para inscribirte en cua
 
 | Horario       | Lunes         | Martes        | Miércoles     | Jueves        | Viernes       |
 | :-----------: |:-------------:| :-----------: |:-------------:|:-------------:|:-------------:|
-|  9 a 10:20    |               |    Kendo      |               |    Kendo      |               |
-|               |               |               |               |               |               |
-|               |               |               |               |               |               |
+| 09:00 a 10:20 |               |    [Kendo](/disciplinas/kendo)      |               |    Kendo      |               |
+|       x       |       x       |       x       |       x       |       x       |       x       |
 | 18:30 a 19:30 |               |               |  Iaido        |               |  Iaido        |
 | 19:40 a 21:00 |               |               |  Kendo        |               |  Kendo        |
