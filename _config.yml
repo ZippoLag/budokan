@@ -21,3 +21,9 @@ defaults:
       layout: post
       comments: false
       share: true
+
+# Footer Links
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/rosariobudokan
+    icon: fab fa-instagram
