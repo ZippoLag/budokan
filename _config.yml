@@ -32,4 +32,4 @@ footer_links:
     icon: fab fa-facebook
   - title: Contacto
     url: mailto:contacto@rosariobudokan.ar
-    icon: fab fa-envelope
+    icon: fa fa-envelope
