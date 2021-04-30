@@ -15,6 +15,8 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 19:00 a 20:00 |               |                                  |[Iaidō 中心](/disciplinas/iaido)|                                |[Iaidō 中心](/disciplinas/iaido)|
 | 20:10 a 21:30 |               |                                  |[Kendō 中心](/disciplinas/kendo)|                                |[Kendō 中心](/disciplinas/kendo)|
 
+También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).
+
 ## Kendō
 Martes y Jueves de 9:10 a 10:20 en la mañana, y Miércoles y Viernes de 20:10 a 21:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshin (中心) dojo.
 
@@ -28,4 +30,5 @@ Miércoles y Viernes de 19 a 20 por la noche; a cargo de *Sebastián R. Vansteen
 ## Otras actividades
 ¡Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
 
-También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).
+## COVID-19
+Los horarios podrían cambiar repentinamente debido a nuevas restricciones impuestas por las autoridades debido a la pandemia por [COVID-19](/covid-19), no obstante siempre procuraremos ofrecer la mayor practicidad a tanto clientes como instructores.
