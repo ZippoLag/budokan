@@ -12,8 +12,8 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 09:10 a 10:20 |               |[Kendō 中心](/disciplinas/kendo)  |                               |[Kendō 中心](/disciplinas/kendo)  |                               |
 | 10:30 a 11:30 |               |[Iaidō 剣友館](/disciplinas/iaido)|                               |[Iaidō 剣友館](/disciplinas/iaido)|                               |
 | -             | -             | -                                | -                             | -                               | -                             |
-| 19:00 a 20:00 |               |                                  |[Iaidō 中心](/disciplinas/iaido)|                                |[Iaidō 中心](/disciplinas/iaido)|
-| 20:10 a 21:30 |               |                                  |[Kendō 中心](/disciplinas/kendo)|                                |[Kendō 中心](/disciplinas/kendo)|
+| 18:40 a 19:50 |               |                                  |[Kendō 中心](/disciplinas/kendo)|                                |[Kendō 中心](/disciplinas/kendo)|
+| 20:00 a 21:00 |               |                                  |[Iaidō 中心](/disciplinas/iaido)|                                |[Iaidō 中心](/disciplinas/iaido)|
 
 También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).
 
