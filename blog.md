@@ -1,7 +1,7 @@
 ---
 title: Archivo del Blog
 layout: posts
-permalink: /posts/
+permalink: /blog/
 show_excerpts: true
 entries_layout: list
 ---
