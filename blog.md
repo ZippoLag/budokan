@@ -1,6 +1,6 @@
 ---
 title: Archivo del Blog
-layout: posts
+layout: blog
 permalink: /blog/
 show_excerpts: true
 entries_layout: list
