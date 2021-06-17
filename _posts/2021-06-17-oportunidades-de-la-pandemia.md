@@ -16,7 +16,9 @@ last_modified_at: 2021-03-17
 ---
 
 El año pasado, al comenzar la pandemia, algunas personas tuvieron facilidad para adaptarse a las nuevas oportunidades que la virtualidad forzada planteó. Otras, por el contrario, tuvimos problemas para cambiar nuestro estilo de vida.
+
 <!--more-->
+
 Para mí, por ejemplo, ir al dojo es siempre una forma de recuperar algo de estabilidad, soltar el estrés laboral y energías acumuladas. En ese contexto, el hacer ejercicio en casa resultó un sustituto muy pobre de la acción real y, si bien me fui sumando a todas las iniciativas online que otras personas impulsaban, todo se sintió un poco mecánico, sin que lograra “conectar” propiamente dicho con ninguna de ellas.
 
 Así fue que recién a mitad de año, cuando [Nicolás](https://www.instagram.com/kenyukandojo/) y [Santiago](https://www.instagram.com/kaizendojo_/) organizaron un [seminario virtual desde nuestra asociación](https://shinsenkai.org/seminario-online-ssk-2020/), pude encontrar una excusa para comprometerme con un entrenamiento virtual: la interpretación (traducción en tiempo real) de las instrucciones de sensei angloparlantes a nuestro idioma.
