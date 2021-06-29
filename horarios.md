@@ -21,17 +21,16 @@ También podés ver los mismos dentro de nuestro [calendario de prácticas y eve
 
 
 ## Kendō
-Martes y Jueves de 9:10 a 10:20 en la mañana a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
+Martes y Jueves de 9:30 a 10:30 en la mañana; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
 
 ## Kendō Juvenil
-Miércoles y Viernes de 20:10 a 21:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
+Miércoles y Viernes de 18:30 a 19:40 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) doo.
 
 ## Asageiko de Kendō
 Suspendido por pandemia: Un horario disponible para keiko (práctica de combates libres), ¡consultanos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para participar!
 
 ## Iaidō
 Martes y Jueves de 10:30 a 11:30 en la mañana; a cargo de *Nicolás J. Ronco* (3º dan), de Kenyūkan (剣友館) dojo.<br/>
-Miércoles y Viernes de 19 a 20 por la noche; a cargo de *Sebastián R. Vansteenkiste* (1º dan), de Chūshinkai (中真会) dojo.<br/>
 
 ## Otras actividades
 ¡Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
