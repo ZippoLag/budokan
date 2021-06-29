@@ -36,4 +36,4 @@ Martes y Jueves de 10:30 a 11:30 en la mañana; a cargo de *Nicolás J. Ronco* (
 ¡Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
 
 ## COVID-19
-Los horarios podrían cambiar repentinamente debido a nuevas restricciones impuestas por las autoridades debido a la pandemia por [COVID-19](/covid-19), no obstante siempre procuraremos ofrecer la mayor practicidad a tanto clientes como instructores.
+Los horarios podrían cambiar repentinamente debido a nuevas restricciones impuestas por las autoridades debido a la pandemia por [COVID-19](/covid-19), no obstante siempre procuraremos ofrecer la mayor practicidad tanto a clientes como instructores.
