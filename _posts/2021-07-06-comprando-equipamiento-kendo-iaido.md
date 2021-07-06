@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 author: Sebastian Vansteenkiste
 image: 
   path: /images/torneo_shizuoka_secundaria_2016_07_03.jpg
+  thumbnail: /images/torneo_shizuoka_secundaria_2016_07_03-400x225.jpg
   caption: "Dos competidores desconocidos en el Torneo de Escuela Secundaria de Shizuoka - 03/07/2016"
 categories:
   - blog
@@ -32,7 +33,7 @@ No obstante, hasta aquí llegan las similitudes: en Kendō el elemento de práct
 
 Por otro lado, en Iaidō se utiliza una espada sin filo ([Iaitō](https://es.wikipedia.org/wiki/Iait%C5%8D)), que se utiliza con su vaina (Saya) al igual que una Katana para realizar Kata sin impactar sobre oponentes ni otros objetos. Además se utiliza un Obi (faja o cinturón ancho) para portar la espada envainada con comodidad y, ya que muchas Kata comienzan desde la posición de Seiza (arrodillarse en el piso), se recomienda el uso de rodilleras.
 
-##¿Qué comprar primero?
+## ¿Qué comprar primero?
 
 Siempre recomendamos preguntar a sus Sensei (instructores) y Senpai (practicantes de más antigüedad) antes de realizar una compra, no obstante, para comenzar a probar las disciplinas con la menor inversión posible hasta que afianzamos nuestro compromiso, las recomendaciones son:
 
@@ -40,7 +41,7 @@ Siempre recomendamos preguntar a sus Sensei (instructores) y Senpai (practicante
 
 - **Para Iaidō:** 1º un Bokken y rodilleras; 2º Gi+Hakama; 3º Iaitō.
 
-##Eligiendo el equipamiento
+## Eligiendo el equipamiento
 
 - **Shinai (espada de caña de bambú):** tienen un número a modo de “talle” que aumenta con el largo y peso del elemento. Para practicantes infanto-juveniles el tamaño es sugerido según la altura, mas para personas en edad de competición, el número reglamentario varía según edad y sexo (ya que en promedio los varones tienen más testosterona, y por ende fuerza, utilizan armas algunos gramos más pesadas). Además de esto, los Shinai se dividen según la distribución de su peso y la forma y grosor de la empuñadura, pero son detalles que no hace falta tener en cuenta para una primera compra a menos que tengamos manos más grandes que la persona japonesa promedio (en caso cual deberíamos buscar modelos que digan “large grip”). *¡No debemos olvidar comprar un Tsuba+Tsubadome! (guardamanos, no suelen romperse así que quien ya ha tenido un Shinai no suele necesitar comprar otro)*
 
@@ -56,7 +57,7 @@ Siempre recomendamos preguntar a sus Sensei (instructores) y Senpai (practicante
 
 - **Rodilleras:** idealmente no han de ser muy gruesas para no generar un ángulo de apoyo de las piernas que nos perjudique el empeine. No se compran porque durante la práctica se le den  “rodillazos al piso”, sino que su función es la de hacernos más cómoda la posición de sentarse tradicional japonesa.
 
-##¿Dónde comprar los elementos de práctica?
+## ¿Dónde comprar los elementos de práctica?
 
 En general los productos de mejor calidad suelen provenir de fabricantes japoneses que tienen tiendas online con envío a todo el mundo (hace unos años la compra era más complicada, pero hoy en día los envíos puerta-a-puerta a Argentina funcionan sin problemas). No obstante, hay múltiples alternativas a la hora de comprar, como ser importadores/revendedores, fabricantes nacionales y el mercado de segunda mano (usados).
 
