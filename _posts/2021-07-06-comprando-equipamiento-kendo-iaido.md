@@ -3,9 +3,9 @@ title: "Comprando Equipamiento de Kendō & Iaidō"
 excerpt_separator: "<!--more-->"
 author: Sebastian Vansteenkiste
 image: 
-  path: /images/torneo_shizuoka_secundaria_2016_07_03.jpg
-  thumbnail: /images/torneo_shizuoka_secundaria_2016_07_03-400x225.jpg
-  caption: "Dos competidores desconocidos en el Torneo de Escuela Secundaria de Shizuoka - 03/07/2016"
+  path: /images/espadas_varias.jpg
+  thumbnail: /images/espadas_varias-400x225.jpg
+  caption: "Iaitō, Bokken, Kodachi y Shinai"
 categories:
   - blog
 tags: 

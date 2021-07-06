@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 author: Sebastian Vansteenkiste
 image: 
   path: /images/2021-06-17-oportunidades-de-la-pandemia.jpg
-  thumbnail: /images/2021-06-17-oportunidades-de-la-pandemia.jpg
+  thumbnail: /images/2021-06-17-oportunidades-de-la-pandemia-400x200.jpg
   caption: "Poster seminario Online SSK 2021"
 categories:
   - blog
