@@ -2,6 +2,9 @@
 title: "Comprando Equipamiento de Kendō & Iaidō"
 excerpt_separator: "<!--more-->"
 author: Sebastian Vansteenkiste
+image: 
+  path: /images/torneo_shizuoka_secundaria_2016_07_03.jpg
+  caption: "Dos competidores desconocidos en el Torneo de Escuela Secundaria de Shizuoka - 03/07/2016"
 categories:
   - blog
 tags: 
