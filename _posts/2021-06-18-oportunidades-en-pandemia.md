@@ -15,7 +15,7 @@ tags:
   - reflexiones
   - kendo
   . iaido
-last_modified_at: 2021-06-17
+last_modified_at: 2021-06-18
 ---
 
 El año pasado, al comenzar la pandemia, algunas personas tuvieron facilidad para adaptarse a las nuevas oportunidades que la virtualidad forzada planteó. Otras, por el contrario, tuvimos problemas para cambiar nuestro estilo de vida.
