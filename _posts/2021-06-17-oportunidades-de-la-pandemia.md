@@ -12,6 +12,8 @@ tags:
   - seminario online
   - pandemia
   - reflexiones
+  - kendo
+  . iaido
 last_modified_at: 2021-03-17
 ---
 
