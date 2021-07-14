@@ -30,6 +30,7 @@ Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.g
 * Depósito para elementos de práctica de Kendo & Iaido
 * Pequeña terraza
 * Ventilación cruzada
+* Pizarra para fibrón
 
 
 ## Otras actividades
