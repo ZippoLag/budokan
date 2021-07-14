@@ -34,7 +34,7 @@ Un horario disponible para keiko (práctica de combates libres), ¡consultanos a
 Martes y Jueves de 9:30 a 10:30 en la mañana; a cargo de *Nicolás J. Ronco* (3º dan), de Kenyūkan (剣友館) dojo.<br/>
 
 ## Otras actividades
-¡Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
+Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
 
 ## COVID-19
 Los horarios podrían cambiar repentinamente debido a nuevas restricciones impuestas por las autoridades debido a la pandemia por [COVID-19](/covid-19), no obstante siempre procuraremos ofrecer la mayor practicidad tanto a clientes como instructores.

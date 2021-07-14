@@ -12,18 +12,25 @@ Te invitamos a conocer los [horarios](/horarios) de nuestras [disciplinas](/disc
 
 ¡Todas nuestras actividades cuentan con protocolos aprobados para la práctica minimizando los riesgos de contagio de [COVID-19](/covid-19)!
 
-Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.gl/maps/UrgXyS4JV2Qs7Fqj7).
+Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.gl/maps/UrgXyS4JV2Qs7Fqj7). Para consultas, por favor escribir a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1948.1982282037714!2d-60.63628431172503!3d-32.94543815158321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7ab2a4fc78367%3A0xf30ccb1ecfacc3fa!2sRosario%20Budokan!5e0!3m2!1ses-419!2sar!4v1617989575982!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 ## Instalaciones
 
-El local cuenta con:
+![Salón principal de RBDK](/images/instalaciones_01.jpg)
+
+# El local cuenta con:
 
 * Área de trabajo de 12m x 8m (76 metros cuadrados)
 * Piso de madera
-* 
+* 2 vestuarios con ducha
+* Sala con uso a definir de 3m x 3m (9 metros cuadrados)
+* Depósito para elementos de práctica de Kendo & Iaido
+* Pequeña terraza
+* Ventilación cruzada
 
 
-Para consultas, por favor escribir a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar)
+## Otras actividades
+Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
