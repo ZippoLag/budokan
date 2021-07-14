@@ -17,4 +17,13 @@ Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.g
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1948.1982282037714!2d-60.63628431172503!3d-32.94543815158321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7ab2a4fc78367%3A0xf30ccb1ecfacc3fa!2sRosario%20Budokan!5e0!3m2!1ses-419!2sar!4v1617989575982!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
+## Instalaciones
+
+El local cuenta con:
+
+* Área de trabajo de 12m x 8m (76 metros cuadrados)
+* Piso de madera
+* 
+
+
 Para consultas, por favor escribir a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar)
