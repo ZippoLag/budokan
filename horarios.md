@@ -6,7 +6,7 @@ permalink: /horarios/
 
 Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *sin cargo* de la que más te interese, por favor dejanos tus datos usando nuestro formulario de [inscripción](/inscripcion) o escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar).
 
-### Horarios vigentes a partir del Lunes 28/06/2021
+### Horarios vigentes a partir del Lunes 12/07/2021
 
 | Horario       | Lunes         | Martes                           | Miércoles                     | Jueves                          | Viernes                       |
 | :-----------: |:-------------:|:--------------------------------:|:-----------------------------:|:-------------------------------:|:-----------------------------:|
@@ -15,20 +15,20 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 10:30 a 11:30 |               |[Iaidō 剣友館](/disciplinas/iaido)|                               |[Iaidō 剣友館](/disciplinas/iaido)|                               |
 | -             | -             | -                                | -                             | -                               | -                             |
 | 18:30 a 19:30 |               |                                  |[Kendō Juvenil 中真会](/disciplinas/kendo)|                                |[Kendō Juvenil 中真会](/disciplinas/kendo)|
-
+| 19:40 a 21:00 |               |[Kendō 中真会](/disciplinas/kendo)  |                               |[Kendō 中真会](/disciplinas/kendo)  |                               |
 
 También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).
 
 
 ## Kendō Adolescentes y Adultos
 Martes y Jueves de 10:30 a 11:30 en la mañana; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
-**Suspendido por pandemia:** Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
+Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
 
 ## Kendō Infanto-Juvenil
 Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
 
 ## Asageiko de Kendō
-**Suspendido por pandemia:** Un horario disponible para keiko (práctica de combates libres), ¡consultanos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para participar!
+Un horario disponible para keiko (práctica de combates libres), ¡consultanos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para participar!
 
 ## Iaidō
 Martes y Jueves de 9:30 a 10:30 en la mañana; a cargo de *Nicolás J. Ronco* (3º dan), de Kenyūkan (剣友館) dojo.<br/>
