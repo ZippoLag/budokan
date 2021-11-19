@@ -13,7 +13,7 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 9:00 a 10:30 |               |[Iaidō 中真会](/disciplinas/iaido)|                               |[Iaidō 中真会](/disciplinas/iaido)|                               |
 | -             | -             | -                                | -                             | -                               | -                             |
 | 18:30 a 19:30 |               |                                  |[Kendō Infantil 中真会](/disciplinas/kendo)|                                |[Kendō Infantil 中真会](/disciplinas/kendo)|
-| 19:40 a 21:00 |               |[Kendō 中真会](/disciplinas/kendo)  |                               |[Kendō 中真会](/disciplinas/kendo)  |                               |
+| 19:40 a 21:00 |               |                                  |[Kendō Mayores 中真会](/disciplinas/kendo)|                                |[Kendō Mayores 中真会](/disciplinas/kendo)|
 | 20:00 a 22:00 |               |                                     |                               | Taiko/Eisa |                               |
 
 También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).
