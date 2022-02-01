@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
 <meta name="robots" content="noindex" />
 <title>Acuerdo de Uso - https://rosariobudokan.ar/acuerdo-de-uso</title>
 

@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
 <meta name="robots" content="noindex" />
 <title>Precios de Actividades - https://rosariobudokan.ar/precios</title>
 
