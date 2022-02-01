@@ -8,7 +8,7 @@ entries_layout: list
 
 ¡Gracias por visitar el sitio de Rosario Budokan! Somos un edificio de artes marciales administrado por practicantes de la [Asociación Civil de Kendo & Iaido Shin Sen Kai](https://shinsenkai.org), por lo que nuestra prioridad es la práctica y difusión de dichas disciplinas.
 
-Te invitamos a conocer los [horarios](/horarios) de nuestras [disciplinas](/disciplinas) e [inscribirte](/inscripcion) para probar una clase de la que quieras. **¡La primer clase es gratis!**
+Te invitamos a conocer los [horarios](/horarios) de nuestras [disciplinas](/disciplinas) e [inscribirte](/inscripcion) para probar una clase de la que quieras. **¡La primer clase no tiene costo!**
 
 ¡Todas nuestras actividades cuentan con protocolos aprobados para la práctica minimizando los riesgos de contagio de [COVID-19](/covid-19)!
 
@@ -33,5 +33,6 @@ Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.g
 * Pizarra para fibrón
 
 
-## Otras actividades
+## Kendo, Iaido & Otras actividades
+¡Conocé los [horarios](/horarios) de nuestras [disciplinas](/disciplinas)!
 Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
