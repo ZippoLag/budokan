@@ -23,19 +23,19 @@ También podés ver los mismos dentro de nuestro [calendario de prácticas y eve
 
 
 ## [Kendō](/disciplinas/kendo) Adolescentes y Adultos
-- Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
+Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo.
 
 ## [Kendō](/disciplinas/kendo) Infantil
-- Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo, con asistencia de *Nicolás J. Ronco* (3º dan), de Kenyūkan (剣友館) dojo.
+Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), de Chūshinkai (中真会) dojo, con asistencia de *Nicolás J. Ronco* (3º dan), de Kenyūkan (剣友館) dojo.
 
 ## [Iaidō](/disciplinas/iaido)
-- Martes y Jueves de 9:00 a 10:30 en la mañana; a cargo de *Sebastián R. Vansteenkiste* (1º dan), de Chūshinkai (中真会) dojo.<br/>
+Martes y Jueves de 9:00 a 10:30 en la mañana; a cargo de *Sebastián R. Vansteenkiste* (1º dan), de Chūshinkai (中真会) dojo.<br/>
 
-## Eisa - Ryushin Taiko Rosario
-- Sabados de 17:00 a 19:00 por la tarde.<br/>
+## [Eisā](/disciplinas/eisa) - Ryushin Rosario Taiko
+Sabados de 17:00 a 19:00 por la tarde; a cargo del *grupo Ryushin Rosario Taiko*.<br/>
 
 ## Danza Jazz - ¡a partir de Marzo!
-- Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de Veronica Mensegues<br/>
+Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de Veronica Mensegues<br/>
 
 ## Otras actividades
 Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
