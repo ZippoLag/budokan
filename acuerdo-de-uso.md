@@ -12,7 +12,7 @@ Notas:
 - El espacio se reserva mínimo por una hora, a partir de la misma se puede fraccionar cada media hora.
 - Estos precios no aplican para uso eventual. **Consultar aparte por costos de uso para eventos**.
 - Algunos meses contienen distinta cantidad de los días de la semana, esto no afecta los siguientes montos: son fijos para la duración de cada acuerdo de uso.
-- El espacio está disponible los 365 días del año, siempre que alguna legislación no prohíba las actividades extraordinariamente.
+- El espacio está disponible los 365 días del año, siempre que alguna legislación no prohíba las actividades extraordinariamente. (feriados no afectan precio ni disponibilidad de uso)
 
 *Estos valores podrían no estar actualizados y/o cambiar sin previo aviso.*
 

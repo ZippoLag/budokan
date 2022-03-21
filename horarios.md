@@ -39,6 +39,7 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 21:00 a 21:30 |               |               |               |                |                 |                |               |
 | 21:30 a 22:00 |               |               |               |                |                 |                |               |
 
+**También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**
 
 ## [Kendō](/disciplinas/kendo) Infantil
 Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), con asistencia de *Nicolás J. Ronco* (3º dan).
