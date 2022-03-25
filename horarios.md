@@ -10,10 +10,11 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 
 | Horario       | Lunes         | Martes        | Miércoles     | Jueves         | Viernes         | Sábados        | Domingos      |
 | :-----------: |:-------------:|:-------------:|:-------------:|:--------------:|:---------------:|:--------------:|:-------------:|
+| 07:30 a 08:00 | Reservado     |               |  Reservado    |                |  Reservado      |                |               |
 | 08:00 a 08:30 |               |               |               |                |                 |                |               |
 | 08:30 a 09:00 |               |               |               |                |                 |                |               |
-| 09:00 a 09:30 |               |               |               |                |                 |                |               |
-| 09:30 a 10:00 |               |  Iaidō        |               |   Iaidō        |                 |                |               |
+| 09:00 a 09:30 |               |               |  Karate       |                |                 |                |               |
+| 09:30 a 10:00 |               |  Iaidō        |  Karate       |   Iaidō        |                 |                |               |
 | 10:00 a 10:30 |               |  Iaidō        |               |   Iaidō        |                 |                |               |
 | 10:30 a 11:00 |               |  Iaidō        |               |   Iaidō        |                 |                |               |
 | 11:00 a 11:30 |               |               |               |                |                 |                |               |
@@ -28,10 +29,10 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 15:30 a 16:00 |               |               |               |                |                 |                |               |
 | 16:00 a 16:30 |               |               |               |                |                 |                |               |
 | 16:30 a 17:00 |               |               |               |                |                 |                |               |
-| 17:00 a 17:30 |               |               |  Karate       |                |                 |  Eisa          |               |
-| 17:30 a 18:00 |               |               |  Karate       |                |                 |  Eisa          |               |
-| 18:00 a 18:30 |               |               |               |                |                 |  Eisa          |               |
-| 18:30 a 19:00 |               |               |Kendō Infantil |                |Kendō Infantil   |  Eisa          |               |
+| 17:00 a 17:30 | Reservado     |  Reservado    | Reservado     |  Reservado     |                 |  Eisa          |               |
+| 17:30 a 18:00 | Reservado     |  Reservado    | Reservado     |  Reservado     |                 |  Eisa          |               |
+| 18:00 a 18:30 |               |  Reservado    |               |  Reservado     |                 |  Eisa          |               |
+| 18:30 a 19:00 |               |  Reservado    |Kendō Infantil |  Reservado     |Kendō Infantil   |  Eisa          |               |
 | 19:00 a 19:30 |               | Danza Jazz    |Kendō Infantil | Danza Jazz     |Kendō Infantil   |                |               |
 | 19:30 a 20:00 |               | Danza Jazz    |Kendō Mayores  | Danza Jazz     |Kendō Mayores    |                |               |
 | 20:00 a 20:30 |               | Danza Jazz    |Kendō Mayores  | Danza Jazz     |Kendō Mayores    |                |               |
