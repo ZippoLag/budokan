@@ -50,7 +50,7 @@ Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica
 Sabados de 17:00 a 19:00 por la tarde; a cargo del *grupo Ryushin Rosario Taiko*.<br/>
 
 ## Hatha Yoga Integral - Carolina Landi
-Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Carolina Landi*.<br/>
+Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina Landi*.<br/>
 
 ## Hatha Yoga Tradicional - Nina Burns
 Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Nina Burns*.<br/>
