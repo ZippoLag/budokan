@@ -12,13 +12,13 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | :-----------: |:-----------------:|:--------------------:|:-----------------:|:---------------------:|:---------------:|:--------------:|:-------------:|
 | 07:30 a 08:00 | Reservado         |                      |  Reservado        |                       |  Reservado      |                |               |
 | 08:00 a 08:30 |                   |                      |                   |                       |                 |                |               |
-| 08:30 a 09:00 |                   |                      |                   |                       |                 |                |               |
-| 09:00 a 09:30 |                   |                      |                   |                       |                 |                |               |
-| 09:30 a 10:00 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
+| 08:30 a 09:00 | Reservado         |                      |  Reservado        |                       |                 |                |               |
+| 09:00 a 09:30 | Reservado         |                      |  Reservado        |                       |                 |                |               |
+| 09:30 a 10:00 | Reservado         |                      |  Reservado        |                       |                 |                |               |
 | 10:00 a 10:30 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
 | 10:30 a 11:00 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
-| 11:00 a 11:30 |                   |                      |                   |                       |                 |                |               |
-| 11:30 a 12:00 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
+| 11:00 a 11:30 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
+| 11:30 a 12:00 |                   |  Iaidō               |                   |   Iaidō               |                 |  Danza Jazz    |               |
 | 12:00 a 12:30 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
 | 12:30 a 13:00 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
 | 13:00 a 13:30 |                   |                      |                   |                       |                 |                |               |
@@ -37,8 +37,8 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 19:30 a 20:00 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
 | 20:00 a 20:30 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
 | 20:30 a 21:00 |                   |                      |Kendō Mayores      |                       |Kendō Mayores    |                |               |
-| 21:00 a 21:30 |                   |                      |                   |                       |                 |                |               |
-| 21:30 a 22:00 |                   |                      |                   |                       |                 |                |               |
+| 21:00 a 21:30 |                   |                      |Reservado          |                       |Reservado        |                |               |
+| 21:30 a 22:00 |                   |                      |Reservado          |                       |Reservado        |                |               |
 
 **También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**
 
@@ -56,7 +56,7 @@ Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina
 Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Nina Burns*.<br/>
 
 ## [Iaidō](/disciplinas/iaido)
-Martes y Jueves de 9:30 a 11:00 en la mañana.<br/>
+Martes y Jueves de 10:00 a 12:00 en la mañana.<br/>
 
 ## [Kendō](/disciplinas/kendo) Infantil
 Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), con asistencia de *Nicolás J. Ronco* (3º dan).
