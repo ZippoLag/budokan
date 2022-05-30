@@ -12,19 +12,19 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | :-----------: |:-----------------:|:--------------------:|:-----------------:|:---------------------:|:---------------:|:--------------:|:-------------:|
 | 07:30 a 08:00 | Reservado         |                      |  Reservado        |                       |  Reservado      |                |               |
 | 08:00 a 08:30 |                   |                      |                   |                       |                 |                |               |
-| 08:30 a 09:00 | Reservado         |                      |  Reservado        |                       |                 |                |               |
-| 09:00 a 09:30 | Reservado         |                      |  Reservado        |                       |                 |                |               |
-| 09:30 a 10:00 | Reservado         |                      |  Reservado        |                       |                 |                |               |
+| 08:30 a 09:00 | Hatha Yoga        |                      |  Hatha Yoga       |                       |                 |                |               |
+| 09:00 a 09:30 | Hatha Yoga        |                      |  Hatha Yoga       |                       |                 |                |               |
+| 09:30 a 10:00 | Hatha Yoga        |                      |  Hatha Yoga       |                       |                 |                |               |
 | 10:00 a 10:30 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
 | 10:30 a 11:00 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
 | 11:00 a 11:30 |                   |  Iaidō               |                   |   Iaidō               |                 |                |               |
 | 11:30 a 12:00 |                   |  Iaidō               |                   |   Iaidō               |                 |  Danza Jazz    |               |
 | 12:00 a 12:30 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
 | 12:30 a 13:00 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
-| 13:00 a 13:30 |                   |                      |                   |                       |                 |                |               |
-| 13:30 a 14:00 |                   |                      |                   |                       |                 |                |               |
-| 14:00 a 14:30 |                   |                      |                   |                       |                 |                |               |
-| 14:30 a 15:00 |                   |                      |                   |                       |                 |                |               |
+| 13:00 a 13:30 |                   |                      | Reservado         |                       |  Reservado      |                |               |
+| 13:30 a 14:00 |                   |                      | Reservado         |                       |  Reservado      |                |               |
+| 14:00 a 14:30 |                   |                      | Reservado         |                       |  Reservado      |                |               |
+| 14:30 a 15:00 |                   |                      | Reservado         |                       |  Reservado      |                |               |
 | 15:00 a 15:30 |                   |                      |                   |                       |                 |                |               |
 | 15:30 a 16:00 |                   |                      |                   |                       |                 |                |               |
 | 16:00 a 16:30 |                   |                      |                   |                       |                 |                |               |
@@ -36,9 +36,9 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 19:00 a 19:30 |                   | Danza Jazz           |Kendō Infantil     | Danza Jazz            |Kendō Infantil   |                |               |
 | 19:30 a 20:00 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
 | 20:00 a 20:30 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
-| 20:30 a 21:00 |                   |                      |Kendō Mayores      |                       |Kendō Mayores    |                |               |
-| 21:00 a 21:30 |                   |                      |Reservado          |                       |Reservado        |                |               |
-| 21:30 a 22:00 |                   |                      |Reservado          |                       |Reservado        |                |               |
+| 20:30 a 21:00 |                   | Reservado            |Kendō Mayores      | Reservado             |Kendō Mayores    |                |               |
+| 21:00 a 21:30 |                   | Reservado            |Reservado          | Reservado             |Reservado        |                |               |
+| 21:30 a 22:00 |                   | Reservado            |Reservado          | Reservado             |Reservado        |                |               |
 
 **También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**
 
@@ -48,6 +48,9 @@ Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
 Sabados de 17:00 a 19:00 por la tarde; a cargo del *grupo Ryushin Rosario Taiko*.<br/>
+
+## Hatha Yoga - Liliana Alvez
+Lunes y Miércoles de 08:30 a 10:00 por la mañana; a cargo de profesora *Liliana Alvez*.<br/>
 
 ## Hatha Yoga Integral - Carolina Landi
 Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina Landi*.<br/>
