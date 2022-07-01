@@ -47,7 +47,7 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*<br/>
 
 ## Danza Contemporánea - David Farías
-Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00. Martes y Jueves de 20:30 a 22:00; a cargo de *David FaríasW*<br/>
+Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00. Martes y Jueves de 20:30 a 22:00; a cargo de *David Farías*<br/>
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
 Sabados de 17:00 a 19:00 por la tarde; a cargo del *grupo Ryushin Rosario Taiko*.<br/>
