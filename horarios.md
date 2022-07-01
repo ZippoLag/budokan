@@ -36,9 +36,9 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 19:00 a 19:30 |                   | Danza Jazz           |Kendō Infantil     | Danza Jazz            |Kendō Infantil   |                |               |
 | 19:30 a 20:00 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
 | 20:00 a 20:30 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
-| 20:30 a 21:00 |                   | Reservado            |Kendō Mayores      | Reservado             |Kendō Mayores    |                |               |
-| 21:00 a 21:30 |                   | Reservado            |Reservado          | Reservado             |Reservado        |                |               |
-| 21:30 a 22:00 |                   | Reservado            |Reservado          | Reservado             |Reservado        |                |               |
+| 20:30 a 21:00 |                   | Danza Contempo.      |Kendō Mayores      | Danza Contempo.       |Kendō Mayores    |                |               |
+| 21:00 a 21:30 |                   | Danza Contempo.      |Reservado          | Danza Contempo.       |Reservado        |                |               |
+| 21:30 a 22:00 |                   | Danza Contempo.      |Reservado          | Danza Contempo.       |Reservado        |                |               |
 
 **También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**
 
