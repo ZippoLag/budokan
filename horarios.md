@@ -21,14 +21,14 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 11:30 a 12:00 |                   |  Iaidō               |                   |   Iaidō               |                 |  Danza Jazz    |               |
 | 12:00 a 12:30 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
 | 12:30 a 13:00 |                   |                      |                   |                       |                 |  Danza Jazz    |               |
-| 13:00 a 13:30 |                   |                      | Reservado         |                       |  Reservado      |                |               |
-| 13:30 a 14:00 |                   |                      | Reservado         |                       |  Reservado      |                |               |
-| 14:00 a 14:30 |                   |                      | Reservado         |                       |  Reservado      |                |               |
-| 14:30 a 15:00 |                   |                      | Reservado         |                       |  Reservado      |                |               |
-| 15:00 a 15:30 |                   |                      |                   |                       |                 |                |               |
-| 15:30 a 16:00 |                   |                      |                   |                       |                 |                |               |
-| 16:00 a 16:30 |                   |                      |                   |                       |                 |                |               |
-| 16:30 a 17:00 |                   |                      |                   |                       |                 |                |               |
+| 13:00 a 13:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 13:30 a 14:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 14:00 a 14:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 14:30 a 15:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 15:00 a 15:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 15:30 a 16:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 16:00 a 16:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 16:30 a 17:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
 | 17:00 a 17:30 |Hatha Yoga Integral|                      |Hatha Yoga Integral|                       |                 |  Eisa / Taiko  |               |
 | 17:30 a 18:00 |Hatha Yoga Integral|Hatha Yoga Tradicional|Hatha Yoga Integral|Hatha Yoga Tradicional |                 |  Eisa / Taiko  |               |
 | 18:00 a 18:30 |                   |Hatha Yoga Tradicional|                   |Hatha Yoga Tradicional |                 |  Eisa / Taiko  |               |
@@ -43,8 +43,11 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 **También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**
 
 
-## Danza Jazz
+## Danza Jazz - Verónica Mensegues
 Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*<br/>
+
+## Danza Contemporánea - David Farías
+Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00. Martes y Jueves de 20:30 a 22:00; a cargo de *David FaríasW*<br/>
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
 Sabados de 17:00 a 19:00 por la tarde; a cargo del *grupo Ryushin Rosario Taiko*.<br/>
