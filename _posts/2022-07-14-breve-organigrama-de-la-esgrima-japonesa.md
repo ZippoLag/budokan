@@ -3,8 +3,8 @@ title: "Un breve organigrama de la esgrima japonesa"
 excerpt_separator: "<!--more-->"
 author: Sebastian Vansteenkiste
 image: 
-  path: /images/2022-07-14-breve-organigrama-de-la-esgrima-japonesa.jpg
-  thumbnail: /images/2022-07-14-breve-organigrama-de-la-esgrima-japonesa-400x200.jpg
+  path: /images/2022-07-14-breve-organigrama-de-la-esgrima-japonesa.png
+  thumbnail: /images/2022-07-14-breve-organigrama-de-la-esgrima-japonesa-400x200.png
   caption: "Organigrama simplificado de la esgrima japonesa"
 categories:
   - blog
