@@ -32,8 +32,8 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 17:00 a 17:30 |Hatha Yoga Integral|                      |Hatha Yoga Integral|                       |                 |  Eisa / Taiko  |               |
 | 17:30 a 18:00 |Hatha Yoga Integral|Hatha Yoga Tradicional|Hatha Yoga Integral|Hatha Yoga Tradicional |                 |  Eisa / Taiko  |               |
 | 18:00 a 18:30 |                   |Hatha Yoga Tradicional|                   |Hatha Yoga Tradicional |                 |  Eisa / Taiko  |               |
-| 18:30 a 19:00 |                   |Hatha Yoga Tradicional|~Kendō Infantil~   |Hatha Yoga Tradicional |~Kendō Infantil~ |  Eisa / Taiko  |               |
-| 19:00 a 19:30 |                   | Danza Jazz           |~Kendō Infantil~   | Danza Jazz            |~Kendō Infantil~ |  Eisa / Taiko  |               |
+| 18:30 a 19:00 |                   |Hatha Yoga Tradicional|~~Kendō Infantil~~   |Hatha Yoga Tradicional |~~Kendō Infantil~~ |  Eisa / Taiko  |               |
+| 19:00 a 19:30 |                   | Danza Jazz           |~~Kendō Infantil~~   | Danza Jazz            |~~Kendō Infantil~~ |  Eisa / Taiko  |               |
 | 19:30 a 20:00 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |  Eisa / Taiko  |               |
 | 20:00 a 20:30 |                   | Danza Jazz           |Kendō Mayores      | Danza Jazz            |Kendō Mayores    |                |               |
 | 20:30 a 21:00 |                   | Danza Contempo.      |Kendō Mayores      | Danza Contempo.       |Kendō Mayores    |                |               |
@@ -44,34 +44,34 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 
 
 ## Danza Jazz Contemporáneo - Verónica Mensegues
-Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*
+Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*</br></br>
 
 ## Danza Contemporánea - David Farías
-Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00. Martes y Jueves de 20:30 a 22:00; a cargo de *David Farías*
+Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00. Martes y Jueves de 20:30 a 22:00; a cargo de *David Farías*</br></br>
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
-Sabados de 16:00 a 20:00 por la tarde; y Domingos de 09:00 a 11:00 por la mañana, a cargo del *grupo Ryushin Rosario Taiko*.
+Sabados de 16:00 a 20:00 por la tarde; y Domingos de 09:00 a 11:00 por la mañana, a cargo del *grupo Ryushin Rosario Taiko*.</br></br>
 
 ## Hatha Yoga Integral - Carolina Landi
-Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina Landi*.
+Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina Landi*.</br></br>
 
 ## Hatha Yoga Tradicional - Nina Burns
-Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Nina Burns*.
+Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Nina Burns*.</br></br>
 
 ## [Iaidō](/disciplinas/iaido)
-Martes y Jueves de 10:00 a 12:00 en la mañana.<br/>
-Lunes y Miércoles de 21:00 a 22:00 en la noche.
+Martes y Jueves de 10:00 a 12:00 en la mañana.
+Lunes y Miércoles de 21:00 a 22:00 en la noche.</br></br>
 
 ## [Kendō](/disciplinas/kendo) Infantil
 Clases suspendidas hasta Noviembre, inscripción abierta.
-~Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), con asistencia de *Nicolás J. Ronco* (3º dan).~
+~~Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), con asistencia de *Nicolás J. Ronco* (3º dan).~~</br></br>
 
 ## [Kendō](/disciplinas/kendo) Mayores (Adolescentes y Adultos)
-Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan) - *Chūshinkai (中真会) dōjō*. **Clase abierta gratuita de prueba sólo el primer Miércoles de cada mes**
+Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan) - *Chūshinkai (中真会) dōjō*. **Clase abierta gratuita de prueba sólo el primer Miércoles de cada mes**</br></br>
 
 
 ## Otras actividades
-Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
+Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!</br></br>
 
 ## Protocolo Sanitario
 Si bien en el estadío actual de la pandemia por COVID-19 ya no hay restricciones oficiales, seguimos cumpliendo nuestro propio [Protocolo Sanitario](/protocolo-sanitario).
