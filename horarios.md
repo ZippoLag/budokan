@@ -44,34 +44,43 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 
 
 ## Danza Jazz Contemporáneo - Verónica Mensegues
-Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*</br></br>
+Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*  
+
 
 ## Danza Contemporánea - David Farías
-Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00 por la tarde. Martes y Jueves de 14:00 a 16:00 por la tarde y 20:30 a 22:00 por la noche; a cargo de *David Farías*</br></br>
+Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00 por la tarde. Martes y Jueves de 14:00 a 16:00 por la tarde y 20:30 a 22:00 por la noche; a cargo de *David Farías*  
+
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
-Sabados de 16:00 a 20:00 por la tarde; y Domingos de 09:00 a 11:00 por la mañana, a cargo del *grupo Ryushin Rosario Taiko*.</br></br>
+Sabados de 16:00 a 20:00 por la tarde; y Domingos de 09:00 a 11:00 por la mañana, a cargo del *grupo Ryushin Rosario Taiko*.  
+
 
 ## Hatha Yoga Integral - Carolina Landi
-Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina Landi*.</br></br>
+Lunes y Miércoles de 17:00 a 18:00 por la tarde; a cargo de profesora *Carolina Landi*.  
+
 
 ## Hatha Yoga Tradicional - Nina Burns
-Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Nina Burns*.</br></br>
+Martes y Jueves de 17:30 a 19 por la tarde; a cargo de profesora *Nina Burns*.  
+
 
 ## [Iaidō](/disciplinas/iaido)
 Martes y Jueves de 10:00 a 12:00 en la mañana.
-Lunes y Miércoles de 21:00 a 22:00 en la noche.</br></br>
+Lunes y Miércoles de 21:00 a 22:00 en la noche.  
+
 
 ## [Kendō](/disciplinas/kendo) Infantil
 Clases suspendidas hasta Noviembre, inscripción abierta.
-~~Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), con asistencia de *Nicolás J. Ronco* (3º dan).~~</br></br>
+~~Miércoles y Viernes de 18:30 a 19:30 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan), con asistencia de *Nicolás J. Ronco* (3º dan).~~  
+
 
 ## [Kendō](/disciplinas/kendo) Mayores (Adolescentes y Adultos)
-Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan) - *Chūshinkai (中真会) dōjō*. **Clase abierta gratuita de prueba sólo el primer Miércoles de cada mes**</br></br>
+Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan) - *Chūshinkai (中真会) dōjō*. **Clase abierta gratuita de prueba sólo el primer Miércoles de cada mes**  
+
 
 
 ## Otras actividades
-Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!</br></br>
+Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!  
+
 
 ## Protocolo Sanitario
 Si bien en el estadío actual de la pandemia por COVID-19 ya no hay restricciones oficiales, seguimos cumpliendo nuestro propio [Protocolo Sanitario](/protocolo-sanitario).
