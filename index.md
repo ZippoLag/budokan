@@ -10,7 +10,7 @@ entries_layout: list
 
 Te invitamos a conocer los [horarios](/horarios) de nuestras [disciplinas](/disciplinas) e [inscribirte](/inscripcion) para probar una clase de la que quieras. **¡La primer clase no tiene costo!**
 
-¡Todas nuestras actividades cuentan con protocolos aprobados para la práctica minimizando los riesgos de contagio de [COVID-19](/covid-19)!
+Si bien en el estadío actual de la pandemia por COVID-19 ya no hay restricciones oficiales, seguimos cumpliendo nuestro propio [Protocolo Sanitario](/protocolo-sanitario).
 
 Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.gl/maps/UrgXyS4JV2Qs7Fqj7). Para consultas, por favor escribir a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar)
 
