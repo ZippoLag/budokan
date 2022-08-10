@@ -22,11 +22,11 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 12:00 a 12:30 |                   |                      | Reservado         |                       |                 |  Danza Jazz    |               |
 | 12:30 a 13:00 |                   |                      | Reservado         |                       |                 |  Danza Jazz    |               |
 | 13:00 a 13:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
-| 13:30 a 14:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
-| 14:00 a 14:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
-| 14:30 a 15:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
-| 15:00 a 15:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
-| 15:30 a 16:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
+| 13:30 a 14:00 |                   |  Danza Contempo.     | Danza Contempo.   |   Danza Contempo.     |  Danza Contempo.|                |               |
+| 14:00 a 14:30 |                   |  Danza Contempo.     | Danza Contempo.   |   Danza Contempo.     |  Danza Contempo.|                |               |
+| 14:30 a 15:00 |                   |  Danza Contempo.     | Danza Contempo.   |   Danza Contempo.     |  Danza Contempo.|                |               |
+| 15:00 a 15:30 |                   |  Danza Contempo.     | Danza Contempo.   |   Danza Contempo.     |  Danza Contempo.|                |               |
+| 15:30 a 16:00 |                   |  Danza Contempo.     | Danza Contempo.   |   Danza Contempo.     |  Danza Contempo.|                |               |
 | 16:00 a 16:30 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
 | 16:30 a 17:00 |                   |                      | Danza Contempo.   |                       |  Danza Contempo.|                |               |
 | 17:00 a 17:30 |Hatha Yoga Integral|                      |Hatha Yoga Integral|                       |                 |  Eisa / Taiko  |               |
@@ -47,7 +47,7 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*</br></br>
 
 ## Danza Contemporánea - David Farías
-Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00. Martes y Jueves de 20:30 a 22:00; a cargo de *David Farías*</br></br>
+Miércoles y Viernes de 13:00 a 15:00 y de 15:00 a 17:00 por la tarde. Martes y Jueves de 14:00 a 16:00 por la tarde y 20:30 a 22:00 por la noche; a cargo de *David Farías*</br></br>
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
 Sabados de 16:00 a 20:00 por la tarde; y Domingos de 09:00 a 11:00 por la mañana, a cargo del *grupo Ryushin Rosario Taiko*.</br></br>
