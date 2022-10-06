@@ -36,3 +36,6 @@ Nos encontramos pleno microcentro de Rosario, en [San Lorenzo 913](https://goo.g
 ## Kendo, Iaido & Otras actividades
 ¡Conocé los [horarios](/horarios) de nuestras [disciplinas](/disciplinas)!
 Todos los espacios libres de nuestra agenda están disponibles para realizar prácticas/charlas/eventos de todas las artes afines, ¡escribinos a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar) para coordinar!
+
+
+## Blog
