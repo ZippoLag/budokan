@@ -4,9 +4,9 @@
 Costos de práctica para disciplinas de Shin Sen Kai:
 
 # Precios a partir de 01/03/2022
-- Cuota Societaria SSK: $300
-- 1x disciplina (Kendo infantil, mayores o Iaido): $2500
-- 2x disciplinas (Kendo + Iaido): $3800
-- Grupo familiar 2 practicantes (misma disciplina): $3800
+- Cuota Societaria SSK: $350
+- 1x disciplina (Kendo o Iaido): $3000 (incluye cuota SSK)
+- 2x disciplinas (Kendo + Iaido): $4000 (incluye cuota SSK)
+- Grupo familiar 2 practicantes (misma disciplina): $4000 (incluye cuota SSK)
 
 Estos valores podrían no estar actualizados y/o cambiar sin previo aviso.

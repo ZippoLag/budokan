@@ -17,13 +17,13 @@ Notas:
 *Estos valores podrían no estar actualizados y/o cambiar sin previo aviso.*
 
 # Precio mensual por bloque de una hora recurrente semanalmente
-- Lunes a Viernes - de 08 a 12: $5.200
-- Lunes a Viernes - de 12 a 18: $4.000
-- Lunes a Viernes - de 18 a 22: $6.000
-- Sabados - cualquier hora: $4.000
+- Lunes a Viernes - de 08 a 12: $5.600
+- Lunes a Viernes - de 12 a 18: $7.300
+- Lunes a Viernes - de 18 a 22: $8.400
+- Sabados - cualquier hora: $5.600
 - Domingos: a convenir
 
-Ejemplo: Lunes de 8am a 9am: $5.200
-Ejemplo: Lunes de 8am a 10am: $5.200 x 2 => $10.400
+Ejemplo: todos los Lunes del mes, de 8am a 9am: $5.600 mensuales 
+Ejemplo: todos los Lunes del mes, de 8am a 10am: $5.600 x 2h => $11.200
 
 Para consultas, por favor escribir a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar)
