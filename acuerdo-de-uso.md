@@ -23,7 +23,7 @@ Notas:
 - Sabados - cualquier hora: $5.600
 - Domingos: a convenir
 
-Ejemplo: todos los Lunes del mes, de 8am a 9am: $5.600 mensuales 
-Ejemplo: todos los Lunes del mes, de 8am a 10am: $5.600 x 2h => $11.200
+-Ejemplo: todos los Lunes del mes, de 8am a 9am: $5.600 mensuales 
+-Ejemplo: todos los Lunes del mes, de 8am a 10am: $5.600 x 2h => $11.200
 
 Para consultas, por favor escribir a [contacto@rosariobudokan.ar](mailto:contacto@rosariobudokan.ar)
