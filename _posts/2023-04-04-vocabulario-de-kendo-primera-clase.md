@@ -47,37 +47,29 @@ Si bien en distintos DŌJŌS la dinámica de clase difiere ligeramente, el nuest
 
 - Calentamiento
 - Saludo de inicio
-- Suburi
-- Uchikomi
-- Keiko
-- Kata
+- SUBURI
+- UCHIKOMI
+- KEIKO
+- KATA
 - Saludo de cierre
 - Estiramiento
 
 
 ### Calentamiento
 
-Durante el calentamiento suele contarse en voz alta para establecer un tempo (ritmo), y tradicionalmente lo hacemos en Japonés. Los números son 1 ICHI, 2 NI, 3 SAN, 4 SHI, 5 GO, 6 ROKU, 7 SHICHI, 8 HACHI, 9 KYŪ, 10 JŪ.
-
-En un estilo muy de escuela deportiva, realizamos el conteo en un tempo de 4x4 para el calentamiento, digamos SENSĒ (o SENPAI que esté a cargo del calentamiento) dice "ICHI-NI-SAN-SHI" y el resto de la clase responde "GO-ROKU-SHICH-HACHI" siguiendo el ritmo.
-
-SENSĒ es sencillamente alguien que ya ha trancitado un trecho del camino y en el momento presente está intentando trasmitirlo liderando la clase.
-
-SENPAI es cualquier persona con mayor antigûedad que uno mismo, dentro de la clase y en el mundo, es en general "gente macanuda" que no van a tener problemas en responder una duda (o molestar a sus SENPAI hasta dar con uno que tenga la respuesta).
-
-HAI significa "si", y generalmente se responde enérgicamente ante cualquier propuesta de SENSĒ; ej: "¡¿van a darlo todo hoy?!" - "¡¡HAI SENSĒ!!"
+- Durante el calentamiento suele contarse en voz alta para establecer un tempo (ritmo), y tradicionalmente lo hacemos en Japonés. Los números son 1 ICHI, 2 NI, 3 SAN, 4 SHI, 5 GO, 6 ROKU, 7 SHICHI, 8 HACHI, 9 KYŪ, 10 JŪ.
+- En un estilo muy de escuela deportiva, realizamos el conteo en un tempo de 4x4 para el calentamiento, digamos SENSĒ (o SENPAI que esté a cargo del calentamiento) dice "ICHI-NI-SAN-SHI" y el resto de la clase responde "GO-ROKU-SHICH-HACHI" siguiendo el ritmo.
+- SENSĒ es sencillamente alguien que ya ha trancitado un trecho del camino y en el momento presente está intentando trasmitirlo liderando la clase.
+- SENPAI es cualquier persona con mayor antigûedad que uno mismo, dentro de la clase y en el mundo, es en general "gente macanuda" que no van a tener problemas en responder una duda (o molestar a sus SENPAI hasta dar con uno que tenga la respuesta).
+- HAI significa "si", y generalmente se responde enérgicamente ante cualquier propuesta de SENSĒ; ej: "¡¿van a darlo todo hoy?!" - "¡¡HAI SENSĒ!!"
 
 
 ### HAJIME-NO RĒ: Saludo de inicio
 
-HAJIME significa inicio y puede utilizarse como verbo / orden para iniciar la clase.
-
+- HAJIME significa inicio y puede utilizarse como verbo / orden para iniciar la clase.
 - -NO es un conector de pertenencia.
-
 - RĒ orden de saludar.
-
 - REIHŌ es la "etiqueta" (en sentido protocolar): la forma correcta de comportarse dentro del contexto de práctica, desde la prolijidad de la vestimenta hasta la cortesía en el lenguaje.
-
 - SHINAI la espada de bambú que se utiliza para practicas con contacto.
 - BOKKEN / BOKUTO son dos nombres igual de válidos para referirse a una espada de madera sólida.
 
@@ -92,43 +84,44 @@ Tras tomar c/u su arma, se forman dos filas: una al frente con SENSĒ, SENPAI a 
 - "-NI": sufijo que indica el sujeto de un verbo
 - "RĒ": saludo, o la orden de saludar
 - SHOMEN-NI, RĒ: saludo a SHOMEN (en simples palabras, el lugar de práctica)
-- SENSĒ-NI, RĒ: 
+- SENSĒ-NI, RĒ: saludo a la persona quien da la práctica
+- SENSĒGATA-NI, RĒ: saludo a las personas a cargo de la práctica (cuando son màs de una)
 - OTAGAI-NI, RĒ: saludo a toda la clase
 - ONEGAISHIMAS: "o-ne-gai-shi-mas" es un simple "por favor" que decimos previo al inicio de cualquier interacción (el inicio de la clase, el inicio de un ejercicio, el inicio de un combate de práctica, etc)
 
 
-### Suburi: ejercicios de corte al aire
+### SUBURI: ejercicios de corte al aire
 
-SUBURI es la parte de la clase que consiste en realizaer ejericios de corte al aire: se blande la espada realizando movimientos de corte sin impactar sobre nada ni nadie, no obstante practicando los movimientos de manos y pie simulando estar atacando un oponente de nuestras dimensiones propias. También se pueden realizar otros ejercicios.
-
-KAMAE es la posición de guardia, y la orden de "ponerse en guardia".
-CHŪDAN-NO KAMAE es la guardia media, y la orden para asumir la misma.
-
-MEN significa "máscara", es el nombre del corte a la cabeza.
-KOTE son los "guantes" del equipo, y el corte que se realiza a las muñecas.
-DŌ es el protector del torso, y el corte al abdomen.
-TSUKI es el protector de la garganta, y la única estocada que realizamos en KENDŌ.
+- SUBURI es la parte de la clase que consiste en realizaer ejericios de corte al aire: se blande la espada realizando movimientos de corte sin impactar sobre nada ni nadie, no obstante practicando los movimientos de manos y pie simulando estar atacando un oponente de nuestras dimensiones propias. También se pueden realizar otros ejercicios.
+- KAMAE es la posición de guardia, y la orden de "ponerse en guardia".
+-  CHŪDAN-NO KAMAE es la guardia media, y la orden para asumir la misma.
+- MEN significa "máscara", es el nombre del corte a la cabeza.
+- KOTE son los "guantes" del equipo, y el corte que se realiza a las muñecas.
+- DŌ es el protector del torso, y el corte al abdomen.
+- TSUKI es el protector de la garganta, y la única estocada que realizamos en KENDŌ.
 
 
-### Uchikomi: ejercicios de impacto
+### UCHIKOMI: ejercicios de impacto
 
-UCHIKOMI es la acción de ejecutar un corte de KENDŌ sobre un objetivo físico. Al impactar el SHINAI sobre su objetivo, se acostumbra gritar el nombre del corte ejecutado.
+- UCHIKOMI es la acción de ejecutar un corte de KENDŌ sobre un objetivo físico. Al impactar el SHINAI sobre su objetivo, se acostumbra gritar el nombre del corte ejecutado.
 
 
-### Keiko: Combate libre de práctica
+### KEIKO: Combate libre de práctica
 
-KEIKO es generalmente la parte más entretenida de la práctica de KENDŌ, es un ejercicio en parejas en que ambas partes combaten libremente si la preocuparse por los ataques de su adversario, sino concentrándose sólo en lograr la eficacia de los propios. (por el contrario, en un SHIAI -combate de torneo- _sí_ se vuelve importante evitar los ataques del contrincante)
+- KEIKO es generalmente la parte más entretenida de la práctica de KENDŌ, es un ejercicio en parejas en que ambas partes combaten libremente si la preocuparse por los ataques de su adversario, sino concentrándose sólo en lograr la eficacia de los propios. (por el contrario, en un SHIAI -combate de torneo- _sí_ se vuelve importante evitar los ataques del contrincante)
 
-### Kata: formas
 
-KATA son situaciones en las que dos partes se intercambian en ataque y defensa siguiendo un patrón, o "forma", predeterminado.
+### KATA: formas
+
+- KATA son situaciones en las que dos partes se intercambian en ataque y defensa siguiendo un patrón, o "forma", predeterminado.
 
 
 ### OWARI-NO RĒ: Saludo de cierre
 
-OWARI es "el final".
+- OWARI es "el final".
 
 El saludo de cierre es similar al de inicio: la clase se forma, asume posición de SEIZA y saluda al DŌJŌ, a quien dió la clase, y a todas las personas que participaron.
+
 
 ### Estiramiento
 
