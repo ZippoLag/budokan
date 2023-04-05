@@ -3,8 +3,8 @@ title: "Vocabulario de KENDŌ: Primera Clase"
 excerpt_separator: "<!--more-->"
 author: Sebastian Vansteenkiste
 image: 
-  path: /images/wordcloud_vocabulario_kendo_1ra_clase_1920x960.png
-  thumbnail: /images/wordcloud_vocabulario_kendo_1ra_clase_400x200.png
+  path: /images/2023-04-04-wordcloud_vocabulario_kendo_1ra_clase_1920x960.png
+  thumbnail: /images/2023-04-04-wordcloud_vocabulario_kendo_1ra_clase_400x200.png
   caption: "Nube de palabras del vocabulario descripto en esta nota"
 categories:
   - blog
@@ -12,7 +12,7 @@ tags:
   - kendo
   - vocabulario
   - glosario
-last_modified_at: 2023-04-05
+last_modified_at: 2023-04-04
 ---
 
 # Vocabulario de KENDŌ: primera clase
