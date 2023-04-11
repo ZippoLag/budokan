@@ -13,11 +13,11 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 07:30 a 08:00 |                   |                      |                   |                       |  Reservado        |                   |               |
 | 08:00 a 08:30 |                   |                      |                   |                       |                   |                   |               |
 | 08:30 a 09:00 |                   |                      |                   |                       |                   |                   |               |
-| 09:00 a 09:30 |                   |                      |                   |                       |                   |Danza Contemporánea|               |
-| 09:30 a 10:00 |                   |                      |                   |                       |                   |Danza Contemporánea|               |
-| 10:00 a 10:30 |                   |                      |                   |                       |                   |    Reservado      |               |
-| 10:30 a 11:00 |                   |                      |                   |                       |                   |    Reservado      |               |
-| 11:00 a 11:30 |                   |                      |                   |                       |                   |    Reservado      |               |
+| 09:00 a 09:30 |                   |                      |                   |                       |                   |                   |               |
+| 09:30 a 10:00 |                   |                      |                   |                       |                   |                   |               |
+| 10:00 a 10:30 |                   |                      |                   |                       |                   |                   |               |
+| 10:30 a 11:00 |                   |                      |                   |                       |                   |                   |               |
+| 11:00 a 11:30 |                   |                      |                   |                       |                   |                   |               |
 | 11:30 a 12:00 |                   |                      |                   |                       |                   |    Danza Jazz     |               |
 | 12:00 a 12:30 |                   |                      |                   |                       |                   |    Danza Jazz     |               |
 | 12:30 a 13:00 |                   |                      |                   |                       |                   |    Danza Jazz     |               |
@@ -32,12 +32,12 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 17:00 a 17:30 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
 | 17:30 a 18:00 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
 | 18:00 a 18:30 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
-| 18:30 a 19:00 |                   |                      |Reservado          |                       |Reservado          |    Eisa / Taiko   |               |
+| 18:30 a 19:00 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
 | 19:00 a 19:30 |                   |  Danza Jazz          |Reservado          |  Danza Jazz           |Reservado          |    Eisa / Taiko   |               |
 | 19:30 a 20:00 |                   |  Danza Jazz          |Kendō Mayores      |  Danza Jazz           |Kendō Mayores      |    Eisa / Taiko   |               |
-| 20:00 a 20:30 |                   |  Danza Jazz          |Kendō Mayores      |  Danza Jazz           |Kendō Mayores      |                   |               |
-| 20:30 a 21:00 |                   |                      |Kendō Mayores      |                       |Kendō Mayores      |                   |               |
-| 21:00 a 21:30 |                   |                      | Reservado         |                       |Reservado          |                   |               |
+| 20:00 a 20:30 |   Capoeira        |  Danza Jazz          |Kendō Mayores      |  Danza Jazz           |Kendō Mayores      |                   |               |
+| 20:30 a 21:00 |   Capoeira        |                      |Kendō Mayores      |                       |Kendō Mayores      |                   |               |
+| 21:00 a 21:30 |   Capoeira        |                      | Reservado         |                       |Reservado          |                   |               |
 | 21:30 a 22:00 |                   |                      | Reservado         |                       |Reservado          |                   |               |
 
 <!--**También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**-->
