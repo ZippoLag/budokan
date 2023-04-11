@@ -51,9 +51,6 @@ Lunes de 20:00 a 21:30; a cargo de *Emmanuel Godoy*
 Martes y Jueves de 19:00 a 20:30. Sabados de 11:30 a 13:00; a cargo de *Veronica Mensegues*  
 
 
-## Danza Contemporánea - León Ruiz
-Sabados de 9:30 a 11:30; a cargo de *León Ruiz*  
-
 
 ## [Eisā / Taiko](/disciplinas/eisa) - Ryushin Rosario Taiko
 **Inicia 18 de Febrero!**
