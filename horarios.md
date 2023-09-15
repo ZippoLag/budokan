@@ -10,7 +10,7 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 
 | Horario       | Lunes             | Martes               | Miércoles         | Jueves                | Viernes           | Sábados           | Domingos      |
 | :-----------: |:-----------------:|:--------------------:|:-----------------:|:---------------------:|:-----------------:|:-----------------:|:-------------:|
-| 07:30 a 08:00 |                   |                      |                   |                       |  Reservado        |                   |               |
+| 07:30 a 08:00 |                   |                      |                   |                       |                   |                   |               |
 | 08:00 a 08:30 |                   |                      |                   |                       |                   |                   |               |
 | 08:30 a 09:00 |                   |                      |                   |                       |                   |                   |               |
 | 09:00 a 09:30 |                   |                      |                   |                       |                   |                   |               |
@@ -20,10 +20,10 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 11:00 a 11:30 |                   |                      |                   |                       |                   |                   |               |
 | 11:30 a 12:00 |                   |                      |                   |                       |                   |    Danza Jazz     |               |
 | 12:00 a 12:30 |                   |                      |                   |                       |                   |    Danza Jazz     |               |
-| 12:30 a 13:00 |                   |                      |                   |                       |                   |    Danza Jazz     |               |
-| 13:00 a 13:30 |                   |                      |                   |                       |                   |                   |               |
-| 13:30 a 14:00 |                   |                      |                   |                       |                   |                   |               |
-| 14:00 a 14:30 |                   |                      |                   |                       |                   |                   |               |
+| 12:30 a 13:00 |                   |  Reservado           |                   |                       |                   |    Danza Jazz     |               |
+| 13:00 a 13:30 |                   |  Reservado           |                   |                       |                   |                   |               |
+| 13:30 a 14:00 |                   |  Reservado           |                   |                       |                   |                   |               |
+| 14:00 a 14:30 |                   |  Reservado           |                   |                       |                   |                   |               |
 | 14:30 a 15:00 |                   |                      |                   |                       |                   |                   |               |
 | 15:00 a 15:30 |                   |                      |                   |                       |                   |                   |               |
 | 15:30 a 16:00 |                   |                      |                   |                       |                   |                   |               |
@@ -33,18 +33,18 @@ Los siguientes son los horarios de nuestras disciplinas. Para probar una clase *
 | 17:30 a 18:00 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
 | 18:00 a 18:30 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
 | 18:30 a 19:00 |                   |                      |                   |                       |                   |    Eisa / Taiko   |               |
-| 19:00 a 19:30 |                   |  Danza Jazz          |Reservado          |  Danza Jazz           |Reservado          |    Eisa / Taiko   |               |
-| 19:30 a 20:00 |                   |  Danza Jazz          |Kendō Mayores      |  Danza Jazz           |Kendō Mayores      |    Eisa / Taiko   |               |
-| 20:00 a 20:30 |   Capoeira        |  Danza Jazz          |Kendō Mayores      |  Danza Jazz           |Kendō Mayores      |                   |               |
-| 20:30 a 21:00 |   Capoeira        |                      |Kendō Mayores      |                       |Kendō Mayores      |                   |               |
-| 21:00 a 21:30 |   Capoeira        |                      | Reservado         |                       |Reservado          |                   |               |
-| 21:30 a 22:00 |                   |                      | Reservado         |                       |Reservado          |                   |               |
+| 19:00 a 19:30 |                   |  Danza Jazz          |                   |  Danza Jazz           |                   |    Eisa / Taiko   |               |
+| 19:30 a 20:00 |                   |  Danza Jazz          |                   |  Danza Jazz           |                   |    Eisa / Taiko   |               |
+| 20:00 a 20:30 |                   |  Danza Jazz          |                   |  Danza Jazz           |                   |                   |               |
+| 20:30 a 21:00 |   Capoeira        |                      | Capoeira          |                       |                   |                   |               |
+| 21:00 a 21:30 |   Capoeira        |                      | Capoeira          |                       |                   |                   |               |
+| 21:30 a 22:00 |                   |                      |                   |                       |                   |                   |               |
 
 <!--**También podés ver los mismos dentro de nuestro [calendario de prácticas y eventos](/calendario).**-->
 
 
 ## Capoeira - Emmanuel Godoy
-Lunes de 20:00 a 21:30; a cargo de *Emmanuel Godoy*  
+Lunes y Miércoles de 20:30 a 21:30; a cargo de *Emmanuel Godoy*  
 
 
 ## Danza Jazz Contemporáneo - Verónica Mensegues
@@ -58,7 +58,7 @@ Sabados de 16:00 a 20:00 por la tarde; a cargo del *grupo Ryushin Rosario Taiko*
 
 
 ## [Kendō](/disciplinas/kendo) Mayores (Adolescentes y Adultos)
-Miércoles y Viernes de 19:40 a 21:00 por la noche; a cargo de *Sebastián R. Vansteenkiste* (2º dan) - *Chūshinkai (中真会) dōjō*. **Clase abierta gratuita de prueba sólo el primer Miércoles de cada mes**  
+Clases suspendidas momentáneamente, consultá los otros dojos de nuestra asociación en [https://shinsenkai.org/#dojos](https://shinsenkai.org/#dojos)
 
 
 ## Otras actividades
